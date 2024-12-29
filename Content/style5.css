@@ -1,0 +1,194 @@
+.blogs {
+    background-image: url(../Assets/c3f8782ec36f16d00fce5c1c22f7c421.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgba(252, 252, 252, 0.872);
+    background-blend-mode: color-dodge;
+    height: 800px;
+    margin: -0.5%;
+}
+
+body {
+    font-family: Montserrat;
+
+}
+
+.img1 {
+    margin-left: 100px;
+    border: 3px dashed red;
+    border-radius: 10px 100px 100px 10px;
+    height: 450px;
+    padding-right: 10px;
+    margin-top: 100px;
+    width: 480px;
+}
+
+.img3 {
+    height: 50px;
+    width: 170px;
+    position: relative;
+    bottom: 200px;
+    left: 525px;
+    background-color: #FC6A8D;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+}
+
+.cer1 {
+    background-color: rgba(255, 255, 255, 0.767);
+    padding: 7px;
+    margin: auto;
+    width: 30px;
+    border-radius: 100%;
+}
+
+.cer2 {
+    background-color: white;
+    padding: 5px;
+    border-radius: 100%;
+}
+
+.img2 {
+    height: 60px;
+    width: 200px;
+    position: relative;
+    left: 85px;
+    top: 190px;
+    background-color: #011242;
+    transform: rotate(-90deg);
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img4 {
+    height: 40px;
+    width: 140px;
+    position: relative;
+    left: 169px;
+    top: 570px;
+    border-radius: 30px;
+    box-shadow: 3px 1px 5px -2px;
+}
+
+.para {
+    padding-top: 250px;
+    padding-left: 200px;
+    padding-right: 100px;
+    font-size: 26px;
+    color: black;
+}
+
+.para h1 {
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.img {
+    display: flex;
+    padding-left: 100px;
+}
+.log{
+    position: relative;
+   left: 70px;
+   bottom: 30px;
+}
+
+
+/*------------------------------------------------------------------------------------------------*/
+.bvn div div{
+    color: orange;
+    text-align: center;
+}
+.bvn div div .spco{
+    color: blue
+}
+.bvn div .study{
+    color: red;
+    font-size: 28px;
+    text-align: center;
+}
+.bvn{
+    margin-bottom: 300px;
+}
+.acc{
+    margin-bottom: 50px;
+}
+.cart img{
+height: 450px;
+width: 500px;
+}
+.cart{
+    margin-left:200px ;
+}
+.press{
+background-color:#011242;
+padding: 50px;
+width: 300px;
+height: 80px;
+margin-left:20px ;
+}
+.press h1{
+    color: white;
+}
+.mtligne{
+    display: flex;
+}
+.trait{
+    padding: 2px;
+    background-color: white;
+    width: 70px;
+    margin-left:-50px ;
+}
+.vidé{
+    border: 1px solid red;
+    padding: 60px;
+    width: 350px;
+   margin-top: 40px;
+   padding-top: 20px;
+}
+.vidé img{
+   width: 400px;
+}
+.vidé p{
+    color: black;
+    font-size: 18px;
+}
+.pe span{
+    color: blue;
+}
+.pe{
+    font-size: 46px;
+    color: black;
+}
+.pe1{
+    color: black;
+}
+.aid{
+    padding: 16px;
+    background-color: white;
+    border-radius: 50px;
+    font-size: 16px;
+    width: 250px;
+}
+.para i{
+    background-color: white;
+    border-radius: 100%;
+    width: 20px;
+    padding-right: 20px;
+}
+.play{
+    display: inline;
+}
+.playR{
+    padding: 10px;
+    background-color: red;
+    color:white;
+    border-radius: 20px;
+    padding-left: 0px;
+}

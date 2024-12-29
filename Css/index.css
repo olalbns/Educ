@@ -1,0 +1,239 @@
+.ol
+{
+
+    position: relative;
+    text-align: center;
+}
+.m
+{
+    color: rgb(245, 197, 107);
+}
+.n
+{
+    color: red;
+}
+.famille
+{
+    display: flex;
+    flex: 10px;
+    height: 100px;
+    
+    
+}
+
+.col{
+    padding: 50px;
+    background-color: white;
+}
+.imag1
+{
+   display: flex;
+    width: 500px;
+    height: 508px;
+    left: 100px;
+    margin-bottom: -30px;
+}
+
+.imag2
+{
+   
+    width: 295px; 
+    height: 220px; 
+   display: flex;
+   right: 100px;
+   padding: 50px;
+   background-color: white;
+   
+}
+
+
+.membre1
+{
+    
+  left: 250px;
+  position: relative;
+  right: 180px;
+  
+  
+    
+}
+
+.membre2
+{
+    
+   left: 300px;
+   position: relative;
+
+}
+
+.membre3
+{
+   
+    left: 300px;
+    position: relative; 
+     bottom: 360px;
+    
+}
+.mob
+{
+    position: relative;
+    left: 350px;
+    bottom: 320px;
+    text-align: center;
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 132px;
+    background-color: white;
+    
+}
+.mob2{
+    position: relative;
+    left: 350px;
+    bottom: 349.9px;
+    text-align: center;
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 132px;
+    background-color: white;
+    
+}
+.boutt
+{
+    color: white;
+    border-radius: 100px;
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: 670px;
+    left: 600px;
+}
+.mop
+{
+    border-color: red;
+    border-style: solid;
+    position: relative;
+
+}
+.premier
+
+{
+    text-decoration: none;
+    color: white;
+    border-radius: 100px;
+    background-color: red;
+    width: 200px;
+    height: 30px;
+    position: relative; 
+    top: 600px;
+    left: 1200px;
+}
+
+.deuxieme
+{
+    color: white;
+    border-radius: 100px;
+    background-color: red;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    
+}
+
+.troisieme
+{
+    color: white;
+    border-radius: 100px;
+    background-color: red;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    top: 300px;
+    left: 120px;
+}
+.pff{
+    color: black;
+}
+.ab 
+{
+    bottom: 530px;
+    position: relative;
+    right: 500px;
+   
+    
+}
+.b 
+{
+    bottom: 270px;
+    position: relative;
+    right: 530px;
+     
+}
+.c
+{
+    bottom: 520px;
+    position: relative;
+    right: 530px;
+   
+}
+.uit
+{
+    position: relative;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+}
+.petit 
+{
+    display: flex;
+    flex-direction: row;
+}
+.icon1 
+{    
+    position: relative;
+    font-size: xx-small;
+    border-radius: 900px;
+    height: 30px;
+}
+.petit
+{
+    position: relative;
+    bottom: 10px;
+}
+.icon2 
+{    
+    position: relative;
+    bottom: 400px;
+    font-size: xx-small;
+    border-radius: 900px;
+    height: 30px;
+    left: 450px;
+}
+.icon3{
+    position: relative;
+    bottom: 425px;
+    font-size: xx-small;
+    border-radius: 900px;
+    height: 30px;
+    left: 450px;
+}
+.psychop
+{
+    position: relative;
+    bottom: 430px;
+    left: 500px;
+    
+}
+.psychod
+{
+    position: relative;
+    bottom: 460px;
+    left: 500px;
+} 
+.ivd
+{
+    font-size: xx-small;
+
+    
+}
+

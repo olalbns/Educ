@@ -1,0 +1,170 @@
+.bod{
+   /* margin: 60px 120px ;*/
+    background-color: rgb(252, 249, 249);   
+}
+.pris{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+   /* justify-content: space-between;*/
+   /* border-left:2px solid  rgb(82, 178, 243);
+    border-right:2px solid  rgb(82, 178, 243);
+    padding: 0 100px;
+    box-shadow: 2px 2px 10px rgb(136, 133, 133);*/
+} 
+
+.primo{
+    padding-right: 500px;
+}
+
+.spanB{
+    border: 10px;
+}
+.mass{
+    background-color: rgb(252, 249, 249);
+    height: 250px;
+    width: 390px;
+    margin-left: 50px;
+    border: rgba(138, 138, 138, 0.432) 1px solid;
+    padding: 10px;
+    box-shadow: 2px 2px 10px rgb(136, 133, 133);
+} 
+.masse{
+    background-color: rgb(252, 249, 249);
+    height: 250px;
+    width: 390px;
+    margin-left: 50px;
+    border: rgba(138, 138, 138, 0.432) 1px solid;
+    padding: 10px;
+    box-shadow: 2px 2px 10px rgb(136, 133, 133);
+}
+.inl1{
+    display: flex;
+}
+.inl2{
+    display: flex;
+}
+.inl3{
+    display: flex;
+}
+.mas{
+    display: block;
+}
+.masse div{
+    padding: 1px;
+    margin: 10px;
+    width: 110px;
+    height: 50px;
+}
+.masse .line1{    
+    background-color: antiquewhite;
+}
+.masse .line2{    
+    background-color: antiquewhite;
+    margin-left: 60px;
+}
+.masse .line3{    
+    background-color: antiquewhite;
+}
+.masse .line4{    
+    background-color: antiquewhite;
+    margin-left: 60px;
+}
+.masse .line5{    
+    background-color: antiquewhite;
+}
+.masse .line6{    
+    background-color: antiquewhite;
+    margin-left: 60px;
+}
+.hr{
+    position: relative;
+    left: 150px;
+}
+.mas{
+    margin-right: 10px;
+}
+.HOW{
+    margin-left: 100px;
+}
+.HOW h2{
+    font-size: 26px;
+    color: black;
+}
+
+.icone i {
+    padding-left: 30px;
+}
+.icone{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.but{
+    padding: 10px;
+    background-color: red;
+    width: 120px;
+    border-radius: 10px;
+    margin-left: 100px;
+    color: white;
+}
+.line1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.spanA{
+    margin-right: 6PX;
+    background-color: white;
+    border: 1px solid black;
+}
+.line2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.spanB{
+    margin-right: 6PX;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.line3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.spanC{
+    margin-right: 6PX;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.line4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.spanD{
+    margin-right: 6PX;
+    background-color: white;
+    border: 1px solid black;
+}
+.line5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.spanE{
+    margin-right: 6PX;
+    background-color: white;
+    border: 1px solid black;
+}
+.image{
+    width: 742px;
+    height: 500px;
+}
+.img{
+    width: 742px;
+    height: 500px;
+}
